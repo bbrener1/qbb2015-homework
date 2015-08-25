@@ -1,5 +1,5 @@
 Answer 2
-fastqc -o 
+fastqc -o /QC_results/ -f fastq SRR072893.fastq
 
 Answer 3
 hisat -x BDGP6 -U ~/qbb2015/rawdata/SRR072893.fastq.gz -S BDGP6.sam
