@@ -1,0 +1,1 @@
+hisat -x BDGP6 -U BDGP6.fa -S BDGP6.sam
