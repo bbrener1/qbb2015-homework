@@ -1,1 +1,6 @@
-hisat -x BDGP6 -U BDGP6.fa -S BDGP6.sam
+Answer 2
+fastqc -o 
+
+Answer 3
+hisat -x BDGP6 -U ~/qbb2015/rawdata/SRR072893.fastq.gz -S BDGP6.sam
+/Users/cmdb/qbb2015-homework/day1-homework/Answers
