@@ -4,3 +4,11 @@ fastqc -o /QC_results/ -f fastq SRR072893.fastq
 Answer 3
 hisat -x BDGP6 -U ~/qbb2015/rawdata/SRR072893.fastq.gz -S BDGP6.sam
 /Users/cmdb/qbb2015-homework/day1-homework/Answers
+
+Answer 4
+samtools view -b -S -o ./BDGP6_aligned.bam ./BDGP.sam
+samtools sort ./BDGP6_aligned.bam ./BDGP6_aligned.sorted
+samtools index ./BDGP6_aligned.sorted
+
+Answer 5
+stringtie ./BDGP6_aligned.bam -p 4 -e -G <gtf file>  -o ./BDGP6.output -B
