@@ -1,0 +1,2276 @@
+BLASTN 2.2.31+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: refMrna.fa
+           50,494 sequences; 151,605,831 total letters
+
+
+
+Query= STRG.1.1 gene=STRG.1
+
+Length=5248
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 783588514595
+
+
+Query= STRG.2.1 gene=STRG.2
+
+Length=3731
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 556160972297
+
+
+Query= STRG.2.2 gene=STRG.2
+
+Length=4040
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 602570299988
+
+
+Query= STRG.4.1 gene=STRG.4
+
+Length=2798
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 416031837230
+
+
+Query= STRG.3.2 gene=STRG.3
+
+Length=1841
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 272539882302
+
+
+Query= STRG.3.1 gene=STRG.3
+
+Length=1458
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 214997007483
+
+
+Query= STRG.3.3 gene=STRG.3
+
+Length=1694
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 250454235831
+
+
+Query= STRG.5.1 gene=STRG.5
+
+Length=6476
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 967962282735
+
+
+Query= STRG.6.1 gene=STRG.6
+
+Length=1583
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 233777319108
+
+
+Query= STRG.7.1 gene=STRG.7
+
+Length=2283
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 338682957745
+
+
+Query= STRG.7.3 gene=STRG.7
+
+Length=2380
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 353251581648
+
+
+Query= STRG.7.4 gene=STRG.7
+
+Length=2380
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 353251581648
+
+
+Query= STRG.7.2 gene=STRG.7
+
+Length=2353
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 349196397675
+
+
+Query= STRG.7.5 gene=STRG.7
+
+Length=2309
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 342587949719
+
+
+Query= STRG.7.6 gene=STRG.7
+
+Length=2429
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 360610989599
+
+
+Query= STRG.10.5 gene=STRG.10
+
+Length=657
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 94834874797
+
+
+Query= STRG.9.1 gene=STRG.9
+
+Length=1699
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 251205448296
+
+
+Query= STRG.9.2 gene=STRG.9
+
+Length=2176
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 322612413852
+
+
+Query= STRG.9.3 gene=STRG.9
+
+Length=2396
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 355654653632
+
+
+Query= STRG.11.1 gene=STRG.11
+
+Length=905
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 131912908854
+
+
+Query= STRG.12.1 gene=STRG.12
+
+Length=1699
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 251205448296
+
+
+Query= STRG.10.6 gene=STRG.10
+
+Length=869
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 126504179106
+
+
+Query= STRG.10.1 gene=STRG.10
+
+Length=486
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 69134774020
+
+
+Query= STRG.10.4 gene=STRG.10
+
+Length=623
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 89724913239
+
+
+Query= STRG.10.3 gene=STRG.10
+
+Length=1381
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 203428335522
+
+
+Query= STRG.10.2 gene=STRG.10
+
+Length=1261
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 185399236362
+
+
+Query= STRG.8.1 gene=STRG.8
+
+Length=769
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 111667689341
+
+
+Query= STRG.18.2 gene=STRG.18
+
+Length=17143
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NM_003482 3                                                         52.8    3e-04
+
+
+> NM_003482 3
+Length=19432
+
+ Score = 52.8 bits (28),  Expect = 3e-04
+ Identities = 28/28 (100%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  13430  CAGCAACAGCAACTTCAGCAGCAGCAGC  13457
+              ||||||||||||||||||||||||||||
+Sbjct  11722  CAGCAACAGCAACTTCAGCAGCAGCAGC  11749
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2568507471243
+
+
+Query= STRG.18.1 gene=STRG.18
+
+Length=18859
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NM_003482 3                                                         52.8    4e-04
+
+
+> NM_003482 3
+Length=19432
+
+ Score = 52.8 bits (28),  Expect = 4e-04
+ Identities = 28/28 (100%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  13484  CAGCAACAGCAACTTCAGCAGCAGCAGC  13511
+              ||||||||||||||||||||||||||||
+Sbjct  11722  CAGCAACAGCAACTTCAGCAGCAGCAGC  11749
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2826063646119
+
+
+Query= STRG.19.1 gene=STRG.19
+
+Length=903
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 131612423868
+
+
+Query= STRG.23.3 gene=STRG.23
+
+Length=3129
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 465745388899
+
+
+Query= STRG.23.1 gene=STRG.23
+
+Length=2902
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 431651805126
+
+
+Query= STRG.23.2 gene=STRG.23
+
+Length=3121
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 464543852907
+
+
+Query= STRG.20.3 gene=STRG.20
+
+Length=8225
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1230559774980
+
+
+Query= STRG.20.1 gene=STRG.20
+
+Length=17943
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2688580280043
+
+
+Query= STRG.20.2 gene=STRG.20
+
+Length=18528
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2776383521478
+
+
+Query= STRG.21.2 gene=STRG.21
+
+Length=1105
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 161961407454
+
+
+Query= STRG.21.1 gene=STRG.21
+
+Length=981
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 143331338322
+
+
+Query= STRG.22.1 gene=STRG.22
+
+Length=1726
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 255261995607
+
+
+Query= STRG.24.1 gene=STRG.24
+
+Length=1756
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 259769270397
+
+
+Query= STRG.25.2 gene=STRG.25
+
+Length=859
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 125001754176
+
+
+Query= STRG.25.1 gene=STRG.25
+
+Length=830
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 120835561548
+
+
+Query= STRG.26.1 gene=STRG.26
+
+Length=2110
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 312699741918
+
+
+Query= STRG.26.2 gene=STRG.26
+
+Length=3132
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 466195964896
+
+
+Query= STRG.27.1 gene=STRG.27
+
+Length=4008
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 597764156020
+
+
+Query= STRG.28.1 gene=STRG.28
+
+Length=1341
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 197418635802
+
+
+Query= STRG.29.1 gene=STRG.29
+
+Length=748
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 108511536614
+
+
+Query= STRG.32.2 gene=STRG.32
+
+Length=1655
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 244594778604
+
+
+Query= STRG.32.1 gene=STRG.32
+
+Length=1261
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 185399236362
+
+
+Query= STRG.30.1 gene=STRG.30
+
+Length=2023
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 299633038005
+
+
+Query= STRG.31.1 gene=STRG.31
+
+Length=3319
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 494281868709
+
+
+Query= STRG.31.2 gene=STRG.31
+
+Length=4618
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 688999366445
+
+
+Query= STRG.31.3 gene=STRG.31
+
+Length=3528
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 525671996500
+
+
+Query= STRG.33.1 gene=STRG.33
+
+Length=5486
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NM_003413 3                                                         58.4    2e-06
+  NM_001184883 1                                                      56.5    8e-06
+  NM_000932 2                                                         56.5    8e-06
+  NM_001255976 1                                                      54.7    3e-05
+  NM_199170 2                                                         54.7    3e-05
+  NM_199169 2                                                         54.7    3e-05
+  NM_199171 2                                                         54.7    3e-05
+  NM_020182 4                                                         54.7    3e-05
+
+
+> NM_003413 3
+Length=3939
+
+ Score = 58.4 bits (31),  Expect = 2e-06
+ Identities = 31/31 (100%), Gaps = 0/31 (0%)
+ Strand=Plus/Plus
+
+Query  2145  CATCACCACCACCATCACCATCATCACCACA  2175
+             |||||||||||||||||||||||||||||||
+Sbjct  767   CATCACCACCACCATCACCATCATCACCACA  797
+
+
+> NM_001184883 1
+Length=5527
+
+ Score = 56.5 bits (30),  Expect = 8e-06
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Plus
+
+Query  1718  CTACTTCATCAACTCCTCGCATAACACCTA  1747
+             ||||||||||||||||||||||||||||||
+Sbjct  901   CTACTTCATCAACTCCTCGCATAACACCTA  930
+
+
+> NM_000932 2
+Length=5728
+
+ Score = 56.5 bits (30),  Expect = 8e-06
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Plus
+
+Query  1718  CTACTTCATCAACTCCTCGCATAACACCTA  1747
+             ||||||||||||||||||||||||||||||
+Sbjct  1102  CTACTTCATCAACTCCTCGCATAACACCTA  1131
+
+
+> NM_001255976 1
+Length=4663
+
+ Score = 54.7 bits (29),  Expect = 3e-05
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  2146  ATCACCACCACCATCACCATCATCACCAC  2174
+             |||||||||||||||||||||||||||||
+Sbjct  295   ATCACCACCACCATCACCATCATCACCAC  267
+
+
+> NM_199170 2
+Length=4580
+
+ Score = 54.7 bits (29),  Expect = 3e-05
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  2146  ATCACCACCACCATCACCATCATCACCAC  2174
+             |||||||||||||||||||||||||||||
+Sbjct  212   ATCACCACCACCATCACCATCATCACCAC  184
+
+
+> NM_199169 2
+Length=4587
+
+ Score = 54.7 bits (29),  Expect = 3e-05
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  2146  ATCACCACCACCATCACCATCATCACCAC  2174
+             |||||||||||||||||||||||||||||
+Sbjct  219   ATCACCACCACCATCACCATCATCACCAC  191
+
+
+> NM_199171 2
+Length=4645
+
+ Score = 54.7 bits (29),  Expect = 3e-05
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  2146  ATCACCACCACCATCACCATCATCACCAC  2174
+             |||||||||||||||||||||||||||||
+Sbjct  277   ATCACCACCACCATCACCATCATCACCAC  249
+
+
+> NM_020182 4
+Length=4934
+
+ Score = 54.7 bits (29),  Expect = 3e-05
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  2146  ATCACCACCACCATCACCATCATCACCAC  2174
+             |||||||||||||||||||||||||||||
+Sbjct  566   ATCACCACCACCATCACCATCATCACCAC  538
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 819322192785
+
+
+Query= STRG.33.2 gene=STRG.33
+
+Length=5300
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NM_003413 3                                                         58.4    2e-06
+  NM_001255976 1                                                      54.7    3e-05
+  NM_199170 2                                                         54.7    3e-05
+  NM_199169 2                                                         54.7    3e-05
+  NM_199171 2                                                         54.7    3e-05
+  NM_020182 4                                                         54.7    3e-05
+
+
+> NM_003413 3
+Length=3939
+
+ Score = 58.4 bits (31),  Expect = 2e-06
+ Identities = 31/31 (100%), Gaps = 0/31 (0%)
+ Strand=Plus/Plus
+
+Query  1962  CATCACCACCACCATCACCATCATCACCACA  1992
+             |||||||||||||||||||||||||||||||
+Sbjct  767   CATCACCACCACCATCACCATCATCACCACA  797
+
+
+> NM_001255976 1
+Length=4663
+
+ Score = 54.7 bits (29),  Expect = 3e-05
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  1963  ATCACCACCACCATCACCATCATCACCAC  1991
+             |||||||||||||||||||||||||||||
+Sbjct  295   ATCACCACCACCATCACCATCATCACCAC  267
+
+
+> NM_199170 2
+Length=4580
+
+ Score = 54.7 bits (29),  Expect = 3e-05
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  1963  ATCACCACCACCATCACCATCATCACCAC  1991
+             |||||||||||||||||||||||||||||
+Sbjct  212   ATCACCACCACCATCACCATCATCACCAC  184
+
+
+> NM_199169 2
+Length=4587
+
+ Score = 54.7 bits (29),  Expect = 3e-05
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  1963  ATCACCACCACCATCACCATCATCACCAC  1991
+             |||||||||||||||||||||||||||||
+Sbjct  219   ATCACCACCACCATCACCATCATCACCAC  191
+
+
+> NM_199171 2
+Length=4645
+
+ Score = 54.7 bits (29),  Expect = 3e-05
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  1963  ATCACCACCACCATCACCATCATCACCAC  1991
+             |||||||||||||||||||||||||||||
+Sbjct  277   ATCACCACCACCATCACCATCATCACCAC  249
+
+
+> NM_020182 4
+Length=4934
+
+ Score = 54.7 bits (29),  Expect = 3e-05
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  1963  ATCACCACCACCATCACCATCATCACCAC  1991
+             |||||||||||||||||||||||||||||
+Sbjct  566   ATCACCACCACCATCACCATCATCACCAC  538
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 791395872855
+
+
+Query= STRG.34.1 gene=STRG.34
+
+Length=1972
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 291973246056
+
+
+Query= STRG.13.1 gene=STRG.13
+
+Length=3564
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 531078908464
+
+
+Query= STRG.14.1 gene=STRG.14
+
+Length=4711
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 702962526410
+
+
+Query= STRG.13.2 gene=STRG.13
+
+Length=3327
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 495483404701
+
+
+Query= STRG.15.1 gene=STRG.15
+
+Length=1219
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 179089051656
+
+
+Query= STRG.16.1 gene=STRG.16
+
+Length=601
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 86418467525
+
+
+Query= STRG.16.2 gene=STRG.16
+
+Length=768
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 111517396354
+
+
+Query= STRG.17.1 gene=STRG.17
+
+Length=556
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 79655283110
+
+
+Query= STRG.41.2 gene=STRG.41
+
+Length=2775
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 412577421253
+
+
+Query= STRG.41.3 gene=STRG.41
+
+Length=2714
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 403415709314
+
+
+Query= STRG.41.1 gene=STRG.41
+
+Length=2041
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 302336493987
+
+
+Query= STRG.40.1 gene=STRG.40
+
+Length=1488
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 219504282273
+
+
+Query= STRG.40.2 gene=STRG.40
+
+Length=501
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 71389168825
+
+
+Query= STRG.42.1 gene=STRG.42
+
+Length=2041
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 302336493987
+
+
+Query= STRG.42.2 gene=STRG.42
+
+Length=3243
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 482867276785
+
+
+Query= STRG.43.3 gene=STRG.43
+
+Length=1294
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 190357238631
+
+
+Query= STRG.43.1 gene=STRG.43
+
+Length=1109
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 162562377426
+
+
+Query= STRG.43.2 gene=STRG.43
+
+Length=1105
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 161961407454
+
+
+Query= STRG.35.1 gene=STRG.35
+
+Length=1736
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 256764420537
+
+
+Query= STRG.37.1 gene=STRG.37
+
+Length=853
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 124100299218
+
+
+Query= STRG.36.1 gene=STRG.36
+
+Length=2780
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 413328381248
+
+
+Query= STRG.38.1 gene=STRG.38
+
+Length=2310
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 342738141718
+
+
+Query= STRG.44.1 gene=STRG.44
+
+Length=4155
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 619842379873
+
+
+Query= STRG.44.2 gene=STRG.44
+
+Length=4346
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 648529051682
+
+
+Query= STRG.46.1 gene=STRG.46
+
+Length=1232
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 181042204065
+
+
+Query= STRG.45.1 gene=STRG.45
+
+Length=1093
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 160158497538
+
+
+Query= STRG.39.1 gene=STRG.39
+
+Length=683
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 98742492459
+
+
+Query= STRG.50.1 gene=STRG.50
+
+Length=783
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 113771791159
+
+
+Query= STRG.51.1 gene=STRG.51
+
+Length=1732
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 256163450565
+
+
+Query= STRG.52.1 gene=STRG.52
+
+Length=2416
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 358658493612
+
+
+Query= STRG.53.1 gene=STRG.53
+
+Length=1040
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 152195645409
+
+
+Query= STRG.53.2 gene=STRG.53
+
+Length=2104
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 311798589924
+
+
+Query= STRG.55.1 gene=STRG.55
+
+Length=1370
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 201775668099
+
+
+Query= STRG.54.1 gene=STRG.54
+
+Length=1246
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NM_001081559 1                                                      187     6e-46
+  NM_006693 2                                                         187     6e-46
+
+
+> NM_001081559 1
+Length=1754
+
+ Score = 187 bits (101),  Expect = 6e-46
+ Identities = 187/229 (82%), Gaps = 4/229 (2%)
+ Strand=Plus/Plus
+
+Query  320  GTGTGCAAGCACTGGCTGAGAGGACTGTGCAAGAAGGGCGACCAGTGCGAGTTCCTGCAC  379
+            |||||||| ||||||||| | || || |||||||| || |||||||| ||||||||||| 
+Sbjct  342  GTGTGCAAACACTGGCTGCGTGGCCTATGCAAGAAAGGGGACCAGTGTGAGTTCCTGCAT  401
+
+Query  380  GAGTACGACATGACCAAGATGCCCGAGTGCTACTTCTACTCGAGGTTCAACGCCTGCCAC  439
+            ||||| ||||||||||||||||||||||||||||||||||| | ||||   |  |||  |
+Sbjct  402  GAGTATGACATGACCAAGATGCCCGAGTGCTACTTCTACTCCAAGTTCGGGGAGTGCAGC  461
+
+Query  440  AACAAAGAGTGTCCCTTTTTGCACATCGACCCGCAGAG--CAAGGTGAAGGATTGTCCGT  497
+            ||||| || ||||||||  ||||||||||||| | |||  |||| | ||||| ||||| |
+Sbjct  462  AACAAGGAATGTCCCTTCCTGCACATCGACCC-C-GAGTCCAAGATCAAGGACTGTCCTT  519
+
+Query  498  GGTACAAGAGAGGCTTCTGCCGCCACGGTCCCCACTGCCGGCACCAGCA  546
+            ||||  |  | |||||||||   |||||||||| |||| |||||| |||
+Sbjct  520  GGTATGACCGTGGCTTCTGCAAGCACGGTCCCCTCTGCAGGCACCGGCA  568
+
+
+> NM_006693 2
+Length=1829
+
+ Score = 187 bits (101),  Expect = 6e-46
+ Identities = 187/229 (82%), Gaps = 4/229 (2%)
+ Strand=Plus/Plus
+
+Query  320  GTGTGCAAGCACTGGCTGAGAGGACTGTGCAAGAAGGGCGACCAGTGCGAGTTCCTGCAC  379
+            |||||||| ||||||||| | || || |||||||| || |||||||| ||||||||||| 
+Sbjct  342  GTGTGCAAACACTGGCTGCGTGGCCTATGCAAGAAAGGGGACCAGTGTGAGTTCCTGCAT  401
+
+Query  380  GAGTACGACATGACCAAGATGCCCGAGTGCTACTTCTACTCGAGGTTCAACGCCTGCCAC  439
+            ||||| ||||||||||||||||||||||||||||||||||| | ||||   |  |||  |
+Sbjct  402  GAGTATGACATGACCAAGATGCCCGAGTGCTACTTCTACTCCAAGTTCGGGGAGTGCAGC  461
+
+Query  440  AACAAAGAGTGTCCCTTTTTGCACATCGACCCGCAGAG--CAAGGTGAAGGATTGTCCGT  497
+            ||||| || ||||||||  ||||||||||||| | |||  |||| | ||||| ||||| |
+Sbjct  462  AACAAGGAATGTCCCTTCCTGCACATCGACCC-C-GAGTCCAAGATCAAGGACTGTCCTT  519
+
+Query  498  GGTACAAGAGAGGCTTCTGCCGCCACGGTCCCCACTGCCGGCACCAGCA  546
+            ||||  |  | |||||||||   |||||||||| |||| |||||| |||
+Sbjct  520  GGTATGACCGTGGCTTCTGCAAGCACGGTCCCCTCTGCAGGCACCGGCA  568
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 183145598967
+
+
+Query= STRG.56.1 gene=STRG.56
+
+Length=1651
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 243993808632
+
+
+Query= STRG.56.2 gene=STRG.56
+
+Length=1570
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 231824166699
+
+
+Query= STRG.56.3 gene=STRG.56
+
+Length=2849
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 423691629179
+
+
+Query= STRG.58.1 gene=STRG.58
+
+Length=1533
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 226265194458
+
+
+Query= STRG.57.1 gene=STRG.57
+
+Length=2825
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 420087021203
+
+
+Query= STRG.57.2 gene=STRG.57
+
+Length=3735
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 556761740293
+
+
+Query= STRG.48.1 gene=STRG.48
+
+Length=3518
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 524170076510
+
+
+Query= STRG.48.2 gene=STRG.48
+
+Length=2625
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 390048621403
+
+
+Query= STRG.47.2 gene=STRG.47
+
+Length=1310
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 192761118519
+
+
+Query= STRG.47.1 gene=STRG.47
+
+Length=1245
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 182995356474
+
+
+Query= STRG.49.2 gene=STRG.49
+
+Length=1320
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 194263543449
+
+
+Query= STRG.49.1 gene=STRG.49
+
+Length=1240
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 182244144009
+
+
+Query= STRG.60.1 gene=STRG.60
+
+Length=1185
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 173980806894
+
+
+Query= STRG.59.3 gene=STRG.59
+
+Length=2639
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 392151309389
+
+
+Query= STRG.59.1 gene=STRG.59
+
+Length=4030
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 601068379998
+
+
+Query= STRG.59.2 gene=STRG.59
+
+Length=4818
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 719027667445
+
+
+  Database: refMrna.fa
+    Posted date:  Aug 28, 2015  1:33 PM
+  Number of letters in database: 151,605,831
+  Number of sequences in database:  50,494
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5
