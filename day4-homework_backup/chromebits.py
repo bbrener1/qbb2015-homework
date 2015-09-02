@@ -67,7 +67,7 @@ class ChromosomeLocationBitArrays( object ):
                     else:
                         ending = temp_index
                         rval.append((chrom,beginning, ending))
-                        print rval
+#                        print rval
         return rval
                 
                     
